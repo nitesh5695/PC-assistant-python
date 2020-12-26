@@ -1,0 +1,60 @@
+SN,SPEECH,COMMAND
+1,open chrome,0
+2,how to open chrome,0
+3,please open chrome,0
+4,find chrome,0
+5,search chrome,0
+6,choose chrome,0
+7,close chrome,1
+8,how to close chrome,1
+9,please close chrome,1
+10,exit chrome,1
+11,shutdown chrome,1
+12,shutdown the chrome,1
+13,shutdown chrome,1
+14,shutdown of chrome,1
+15,shut off chrome,1
+16,open youtube,2
+17,how to open youtube,2
+18,please open youtube,2
+19,find youtube,2
+20,search youtube,2
+21,choose youtube,2
+22,close youtube,3
+23,how to close youtube,3
+24,please close youtube,3
+25,exit youtube,3
+26,shutdown youtube,3
+27,shutdown of youtube,3
+28,shut off youtube,3
+29,open firefox,4
+30,how to open firefox,4
+31,please open firefox,4
+32,find firefox,4
+33,search firefox,4
+34,choose firefox,4
+35,close firefox,5
+36,how to close firefox,5
+37,please close firefox,5
+38,exit firefox,5
+39,shutdown firefox,5
+40,shutdown the firefox,5
+41,shutdown firefox,5
+42,shutdown of firefox,5
+43,shut off firefox,5
+45,open music,6
+46,how to open music,6
+47,please open music,6
+48,find music,6
+49,search music,6
+,choose music,6
+,play music,6
+,kholo music,6
+,play song,6
+,kholo song,6
+,send mail,7
+,send email,7
+,send message,7
+,message bhejo,7
+,bye bye,8
+,goodbye,8
